@@ -1,0 +1,34 @@
+{
+	"name":				"linkIt",
+	"title":			"Linkit jQuery Plugin",
+	"description": 		"Simple plugin to convert elements to links",
+	"keywords":			[
+		"link",
+		"html",
+		"content"
+	],
+	"version":			"0.1.0",
+	"author":			{
+		"name": "Jonathon Nordquist",
+		"url":	"www.jonathonnordquist.com"
+	},
+	"maintainers":		[
+		{
+			"name":  "Jonathon Nordquist",
+			"email": "jonathon.nordquist@gmail.com",
+			"url":	 "www.jonathonnordquist.com"
+		}
+	],
+	"licenses":			[
+		{
+			"type":	"MIT",
+			"url":  "https://github.com/cugamer/jquery.linkIt/LICENSE.txt"
+		}
+	],
+	"bugs":				"https://github.com/cugamer/jquery.linkIt/issues",
+	"homepage": 		"https://github.com/cugamer/jquery.linkIt",
+	"docs":				"https://github.com/cugamer/jquery.linkIt",
+	"dependencies":		{
+		"jquery":		">=1.9"
+	}
+}
